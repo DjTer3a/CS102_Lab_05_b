@@ -22,9 +22,6 @@ public class ConsoleHangman
 		char letter;
     	Scanner scan = new Scanner( System.in);
     	System.out.println( "Start of ConsoleHangman\n");
-
-
-		// VARIABLES
 		HangmanModel		hangman;
 
 
